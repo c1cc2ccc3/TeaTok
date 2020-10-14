@@ -1,5 +1,4 @@
-# TeaTok
-TeaTok(http://www.teatok.live/)
 直播平台回家页
-TeaTok(http://live.teatok.live/)
-TeaTok(http://x5b.teatok.live/)
+# TeaTok
+TeaTok(https://x5b.ddinin.com/)
+TeaTok(https://app.ddinin.com/)
